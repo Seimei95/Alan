@@ -23,7 +23,7 @@ export default function ForgeryResult() {
           <img src={img} alt="Forgery Result" className="border rounded shadow" />
         </>
       ) : (
-        <p className="text-gray-600">No result yet. Upload an image to begin.</p>
+        <img src="/placeholder.jpg" alt="Waiting for upload..." className="w-80 opacity-50" />
       )}
     </div>
   );
