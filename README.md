@@ -9,4 +9,4 @@ This project detects copy-move image forgeries using a VGG16-based feature extra
 ```bash
 cd backend
 pip install -r requirements.txt
-python app.py
+python app.py                           
