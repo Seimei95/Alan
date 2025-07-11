@@ -1,6 +1,7 @@
-import UploadForm from "@/components/UploadForm";
-import ForgeryResult from "@/components/ForgeryResult";
-import MetricsPanel from "@/components/MetricsPanel";
+import UploadForm from "../components/UploadForm";
+import ForgeryResult from "../components/ForgeryResult";
+import MetricsPanel from "../components/MetricsPanel";
+
 
 export default function Home() {
   return (
